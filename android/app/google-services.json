@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "58618323284",
+    "firebase_url": "https://finserv-cb24a.firebaseio.com",
+    "project_id": "finserv-cb24a",
+    "storage_bucket": "finserv-cb24a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58618323284:android:806478527556064f8628c1",
+        "android_client_info": {
+          "package_name": "com.interview.finserv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58618323284-fdnl8k69v8msv79oof4q835agco1c2pr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.interview.finserv",
+            "certificate_hash": "61f87376ab686fe326c308efb1e5d7275c179cae"
+          }
+        },
+        {
+          "client_id": "58618323284-hgfdv3vouucc8seohrej4lp6oggrv7ec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0AfzcnaKT7ub1NUPfrhe-zeXMwkfxs7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58618323284-hgfdv3vouucc8seohrej4lp6oggrv7ec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

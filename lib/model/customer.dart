@@ -1,0 +1,1 @@
+class Customer{  final String name;  final String phone;  final String address;  final String product;  final String emiTenure;  final String emi;  final String emiDate;  Customer({this.name, this.phone, this.address, this.product, this.emiTenure, this.emi, this.emiDate,});}
